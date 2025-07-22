@@ -1,4 +1,4 @@
-# Inogami
+# 🎨 Inogami
 
 **'Aspiring Software Developer (Mobile)'**
 
